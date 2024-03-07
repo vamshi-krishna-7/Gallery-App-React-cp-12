@@ -1,0 +1,23 @@
+/* Write your code here. */
+
+.list-item {
+  padding-right: 10px;
+  color: #64748b;
+}
+
+.image-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.thumb-image {
+  height: 40px;
+  width: 40px;
+  opacity: 0.5;
+}
+
+.active-image-className {
+  opacity: 1;
+}
